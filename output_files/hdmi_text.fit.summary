@@ -1,0 +1,20 @@
+Fitter Status : Successful - Mon Nov 10 11:10:09 2025
+Quartus Prime Version : 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
+Revision Name : hdmi_text
+Top-level Entity Name : hdmi_text
+Family : Cyclone V
+Device : 5CSEBA6U23I7
+Timing Models : Final
+Logic utilization (in ALMs) : 114 / 41,910 ( < 1 % )
+Total registers : 146
+Total pins : 45 / 314 ( 14 % )
+Total virtual pins : 0
+Total block memory bits : 16,384 / 5,662,720 ( < 1 % )
+Total RAM Blocks : 2 / 553 ( < 1 % )
+Total DSP Blocks : 0 / 112 ( 0 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 1 / 6 ( 17 % )
+Total DLLs : 0 / 4 ( 0 % )
